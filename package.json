@@ -1,0 +1,17 @@
+{
+  "name": "js-third-angle-of-the-triangle",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^2.0.0"
+  }
+}
